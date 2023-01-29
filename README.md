@@ -1,4 +1,4 @@
-<h1 align="center">Salam 👋 Mən Anoniməm</h1>
+<h1 align="center">Salam!, Mənim Aliyev Ali </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonyindian&label=Profile%20views&color=0e75b6&style=plastic" alt="anonyindian" /> </p>
 
 - 📫 **Telegram ilə mənə çatın - [Aliyev Ali](https://t.me/MUCVE_M)**
