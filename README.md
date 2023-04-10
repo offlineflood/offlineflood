@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/offlineflood"><img src="http://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=➣ + Mən + Aliyev + Ali +.; GitHub + hesabıma + xoş + gəldin +. + ☺ ;Tətbiqi + riyaziyyat + və + kibernetika + fakültəsi+.;♕ + ( + Bakı + Dövlət + Universiteti + ) + ♕" alt="aga">
+  <a href="https://github.com/offlineflood"><img src="http://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=➣ + Mən + Aliyev + Ali+.; GitHub + hesabıma + xoş + gəldin+.+ ☺ ;Tətbiqi + riyaziyyat + və + kibernetika + fakültəsi+.;♕ + ( + Bakı + Dövlət + Universiteti + ) + ♕" alt="aga">
 </p> 
 <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
 
