@@ -4,17 +4,22 @@
 <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
 
 ---  
+
+<details>
+<summary><b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈ə𝙡𝙪𝙢𝙖𝙩ı:</b></summary>
   
-❐ 𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉
-❐ 𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉
-❐ 𝕸𝖚𝖈𝖛𝖊
-❐ 𝕯𝖊𝖌𝕲𝖎𝖝𝕸
+❐ [𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉](https://github.com/offlineflood)
+❐ [𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉](https://github.com/DegGixM)
+❐ [𝕸𝖚𝖈𝖛𝖊](https://telegram.me/MUCVE_M)
+❐ [𝕯𝖊𝖌𝕲𝖎𝖝𝕸](https://telegram.me/DegGixM)
   
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/offlineflood)
-  [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DegGixM)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DegGixM)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MUCVE_M)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/DegGixM)
 
+ </details>
+  
  ---
   
 <h3 align="left">Nə istifadə edirəm:</h3>
