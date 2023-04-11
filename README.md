@@ -94,8 +94,7 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 </details>
 
----  
-  
+---    
 <details>
 <summary><b>𝙈ə𝙩𝙣 𝙧𝙚𝙙𝙖𝙠𝙩𝙤𝙧𝙡𝙖𝙧ı 𝙫ə 𝙄𝘿𝙀-𝙡ə𝙧:</b></summary>
   
@@ -103,7 +102,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
-
 ---
   
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
