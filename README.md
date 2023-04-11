@@ -16,7 +16,7 @@
 [![Telegram](https://img.shields.io/badge/DegGıxM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/DegGixM)
 </details>
   
-<a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
+</p> <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <details>
 <summary><b>𝘿𝙞𝙡𝙡ə𝙧:</b></summary> 
@@ -69,7 +69,7 @@
   
 </details>
  
----  
+</p> <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
   
 <details>
 <summary><b>𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙:</b></summary>
@@ -81,7 +81,7 @@
   
 </details>
 
----  
+</p> <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
   
 <details>
 <summary><b>𝙑𝙚𝙧𝙞𝙡ə𝙣𝙡ə𝙧 𝙗𝙖𝙯𝙖𝙡𝙖𝙧ı:</b></summary>
@@ -95,7 +95,7 @@
   
 </details>
 
----  
+</p> <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 
 <p align="center">
   <a href="https://github.com/offlineflood"><img src="http://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=➣+İstifadə+etdiyim+digər;alətlər+və+proqramlar+." alt="aga">
@@ -110,7 +110,7 @@
   
 </details>
 
----    
+</p> <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>    
 <details>
 <summary><b>𝙈ə𝙩𝙣 𝙧𝙚𝙙𝙖𝙠𝙩𝙤𝙧𝙡𝙖𝙧ı 𝙫ə 𝙄𝘿𝙀-𝙡ə𝙧:</b></summary>
   
@@ -119,7 +119,7 @@
 
 </details>
   
----
+</p> <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <details>
 <summary><b>𝙈ə𝙩𝙣 𝙧𝙚𝙙𝙖𝙠𝙩𝙤𝙧𝙡𝙖𝙧:</b></summary>  
