@@ -100,6 +100,7 @@
 <summary><b>𝙈ə𝙩𝙣 𝙧𝙚𝙙𝙖𝙠𝙩𝙤𝙧𝙡𝙖𝙧ı 𝙫ə 𝙄𝘿𝙀-𝙡ə𝙧:</b></summary>
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </details>
 
 ---
