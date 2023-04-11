@@ -4,7 +4,8 @@
 <a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
 
 <details>
-<summary><b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈ə𝙡𝙪𝙢𝙖𝙩ı:</b></summary>  
+<summary><b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈ə𝙡𝙪𝙢𝙖𝙩ı:</b></summary> 
+  
 ❐ [𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉](https://github.com/offlineflood)
 ❐ [𝕯𝖊𝖌𝕲𝖎𝖝𝕸](https://github.com/DegGixM)
 ❐ [𝕸𝖚𝖈𝖛𝖊](https://telegram.me/MUCVE_M)
