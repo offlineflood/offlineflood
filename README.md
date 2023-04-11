@@ -15,7 +15,7 @@
 [![Github](https://img.shields.io/badge/-OfflineFlood-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/offlineflood)
 [![Github](https://img.shields.io/badge/-DegGıxM-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DegGixM)
 [![Telegram](https://img.shields.io/badge/Aliyev-Ali-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MUCVE_M)
-[![Telegram](https://img.shields.io/badge/D-e-g-G-ı-x-M-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/DegGixM)
+[![Telegram](https://img.shields.io/badge/D-e-g-Gıx-M-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/DegGixM)
 
  </details>
   
