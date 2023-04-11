@@ -46,7 +46,7 @@
   
 </details>
 
-<a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>   
+<a img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>   
   
 <details>
 <summary><b>𝙎Ə𝙉:</b></summary>
@@ -57,7 +57,7 @@
   
 </details>
  
-<a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>   
+<a img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>   
   
 <details>
 <summary><b>𝘾̧ə𝙧𝙘̧𝙞𝙫ə𝙡ə𝙧 𝙫ə 𝘼𝙡ə𝙩𝙡ə𝙧:</b></summary>
