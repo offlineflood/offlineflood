@@ -8,7 +8,7 @@
  
   
 ❐ [𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉](https://github.com/offlineflood)
-❐ [𝕯𝖊𝖌𝕲𝖎𝖝𝕸](https://github.com/DegGixM
+❐ [𝕯𝖊𝖌𝕲𝖎𝖝𝕸](https://github.com/DegGixM)
 ❐ [𝕸𝖚𝖈𝖛𝖊](https://telegram.me/MUCVE_M)
 ❐ [𝕯𝖊𝖌𝕲𝖎𝖝𝕸](https://telegram.me/DegGixM)
   
