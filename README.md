@@ -8,14 +8,14 @@
  
   
 ❐ [𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉](https://github.com/offlineflood)
-❐ [𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉](https://github.com/DegGixM)
+❐ [𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉](https://github.com/𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉)
 ❐ [𝕸𝖚𝖈𝖛𝖊](https://telegram.me/MUCVE_M)
 ❐ [𝕯𝖊𝖌𝕲𝖎𝖝𝕸](https://telegram.me/DegGixM)
   
-[![Github](https://img.shields.io/badge/-𝕺𝖋𝖋𝖑𝖎𝖓𝖊𝕱𝖑𝖔𝖔𝖉-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/offlineflood)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DegGixM)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MUCVE_M)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/DegGixM)
+❐ [![Github](https://img.shields.io/badge/-OfflineFlood-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/offlineflood)
+[![Github](https://img.shields.io/badge/-DegGıxM-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DegGixM)
+[![Telegram](https://img.shields.io/badge/Aliyev Ali-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MUCVE_M)
+[![Telegram](https://img.shields.io/badge/DegGıxM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/DegGixM)
 
  </details>
   
