@@ -96,7 +96,10 @@
 </details>
 
 ---  
-# İstifadə etdiyim digər alətlər və proqramlar
+
+<p align="center">
+  <a href="https://github.com/offlineflood"><img src="http://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=➣+İstifadə+etdiyim+digər+alətlər+və+proqramlar" alt="aga">
+</p>   
 
 <details>
 <summary><b>𝘽𝙧𝙖𝙪𝙯𝙚𝙧𝙡ə𝙧:</b></summary>
