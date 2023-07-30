@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=➣ + Mən + Aliyev + Ali.; GitHub + hesabıma + xoş + gəldin.+ ☺ ;Tətbiqi+riyaziyyat;və+kibernetika+fakültəsi.;♕ + ( + Bakı + Dövlət + Universiteti + ) + ♕" alt)](https://github.com/offlineflood) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=Hello+My+self+Saif+Ali;I+am+from+Siwan%2C+Bihar;But+i+live+in+New+Delhi;Since+childhood%2C+my+mind+has+been;very+attracted+towards+phone+and;computer%2C+that's+why+I+learned;a+lot+of+programming+language;Web+Designing+and+many+more+things)](https://git.io/typing-svg)
 
 <details>
 <summary><b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈ə𝙡𝙪𝙢𝙖𝙩ı:</b></summary> 
