@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/offlineflood"><https://readme-typing-svg.herokuapp.com?="color=F77247&width=420&lines=➣ + Mən + Aliyev + Ali.; GitHub + hesabıma + xoş + gəldin.+ ☺ ;Tətbiqi+riyaziyyat;və+kibernetika+fakültəsi.;♕ + ( + Bakı + Dövlət + Universiteti + ) + ♕" alt="aga">
-</p> 
-<a href=><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=➣ + Mən + Aliyev + Ali.; GitHub + hesabıma + xoş + gəldin.+ ☺ ;Tətbiqi+riyaziyyat;və+kibernetika+fakültəsi.;♕ + ( + Bakı + Dövlət + Universiteti + ) + ♕" alt)](https://github.com/offlineflood) 
 
 <details>
 <summary><b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈ə𝙡𝙪𝙢𝙖𝙩ı:</b></summary> 
