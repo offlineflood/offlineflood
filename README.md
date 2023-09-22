@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=➣+Mən+Aliyev+Ali;GitHub+hesabıma+xoş+gəldin+☺;Tətbiqi+riyaziyyat;və+kibernetika+fakültəsi;♕+Bakı+Dövlət+Universiteti+♕)](https://telegram.me/mucve_m)
         
 <div align="center">
-        <img src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple"/>
+        <img width="300" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
+        <img width="300" height="100" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple"/>
 </div>  
 
 <!-- style="font-family:cursive; text-align: center; color: rgb(80, 31, 214);" -->
