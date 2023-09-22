@@ -5,8 +5,10 @@
 <div style="text-align: center;">
         <img width="250" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
         <img width="250" height="99" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple"/>
-        <img width="250" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight"/>
-</div>       
+        <img width="250" height="90" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight"/>
+</div>  
+
+<br/>
   
 <details>
 <summary><b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈ə𝙡𝙪𝙢𝙖𝙩ı:</b></summary> 
