@@ -5,9 +5,9 @@
 </h2> 
 
 <div align="center">
-<img width="300" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center"/>
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple" alt="offlineflood"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight" align="center"/>
+<img width="250" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center"/>
+<img width="250" align="center" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple" alt="offlineflood"/>
+<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight" align="center"/>
 </div>        
   
 <details>
