@@ -10,6 +10,7 @@
  
 <p align="center">
 İstifadə olunan Dillər
+</p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight" align="center">
   
 <details>
