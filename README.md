@@ -1,15 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=➣+Mən+Aliyev+Ali;GitHub+hesabıma+xoş+gəldin+☺;Tətbiqi+riyaziyyat;və+kibernetika+fakültəsi;♕+Bakı+Dövlət+Universiteti+♕)](https://telegram.me/mucve_m)
 
+<h2 align="center">
+İstifadə olunan Dillər
+</h2> 
 
 <div align="center">
-<img width="120" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center"/>
-<img width="120" align="center" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple" alt="offlineflood"/>
-</div>        
- 
-<p align="center">
-İstifadə olunan Dillər
-</p> 
+<img width="300" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center"/>
+<img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple" alt="offlineflood"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight" align="center"/>
+</div>        
   
 <details>
 <summary><b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈ə𝙡𝙪𝙢𝙖𝙩ı:</b></summary> 
