@@ -2,7 +2,7 @@
         
 <div align="center">
         <img width="300" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
-        <img width="350" height="99" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple"/>
+        <img width="350" src="https://github-readme-stats.vercel.app/api?username=offlineflood&&show_icons=true&theme=midnight-purple"/>
 </div>  
 
 <!-- style="font-family:cursive; text-align: center; color: rgb(80, 31, 214);" -->
