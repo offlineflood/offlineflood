@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=25&duration=2000&pause=1500&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=300&lines=➣+Mən+Aliyev+Ali;GitHub+hesabıma+xoş+gəldin+☺;Tətbiqi+riyaziyyat;və+kibernetika+fakültəsi;♕+Bakı+Dövlət+Universiteti+♕)](https://telegram.me/mucve_m)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=offlineflood&label=Profile%20views&color=0e75b6&style=flat" alt="offlineflood" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
         
 <div align="center">
         <img width="310" src="https://github-stats-alpha.vercel.app/api/?username=offlineflood&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
